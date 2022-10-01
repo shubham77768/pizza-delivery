@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/pizza-delivery/static/css/main.31d6cfe0.css",
+    "main.js": "/pizza-delivery/static/js/main.748202af.js",
+    "index.html": "/pizza-delivery/index.html",
+    "main.748202af.js.map": "/pizza-delivery/static/js/main.748202af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.748202af.js"
+  ]
+}
