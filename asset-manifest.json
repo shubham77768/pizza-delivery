@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/pizza-delivery/static/css/main.31d6cfe0.css",
-    "main.js": "/pizza-delivery/static/js/main.bf1cffb5.js",
+    "main.js": "/pizza-delivery/static/js/main.f60de9ec.js",
     "index.html": "/pizza-delivery/index.html",
-    "main.bf1cffb5.js.map": "/pizza-delivery/static/js/main.bf1cffb5.js.map"
+    "main.f60de9ec.js.map": "/pizza-delivery/static/js/main.f60de9ec.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.bf1cffb5.js"
+    "static/js/main.f60de9ec.js"
   ]
 }
